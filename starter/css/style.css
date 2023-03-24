@@ -1,0 +1,107 @@
+/*it worked!*/
+
+
+/* Navigation bar */
+.navbar {
+  background-color: #05ffb0 !important;
+  text-emphasis-color: blue !important;
+  font-weight: 900;
+  font-size: medium;
+}
+
+p {
+  font-weight: 300;
+  font-style: inherit;
+}
+
+.border {
+  border-style: solid;
+}
+
+git .Bio {
+  text-emphasis-color: rgb(153, 46, 46);
+  margin-bottom: 20px;
+  flex-direction: row !important;
+}
+
+/* Float 3 columns side by side */
+.column {
+  float: right !important;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 5px 8px 0 rgba(80, 47, 47, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #270606;
+  display: flex !important;
+  text-emphasis-color: rgb(80, 114, 80);
+
+}
+
+.card-row {
+  display: flex !important;
+  justify-content: stretch;
+  position: relative;
+  width: 100% !important;
+}
+
+p {
+  color: black;
+
+
+}
+
+.jumbotron {
+
+  font-style: normal;
+  font-size-adjust: calc(15);
+  color: #4c00ff !important;
+  background-image: url(images/Avatar.png);
+  margin-top: 10px !important;
+  margin-bottom: 20px !important;
+  background: rgb(197, 212, 161) !important;
+  text-align: center;
+  margin-bottom: 50px !important;
+}
+
+.image {
+  height: min-content;
+  width: 200px !important;
+
+}
+
+.container-fluid {
+  padding: 0 !important;
+  flex-direction: row !important;
+}
+
+.col-xs-4 {
+  background: rgba(157, 52, 99, 0.7);
+  background-color: darkolivegreen;
+}
+
+/* General */
+
+
+/* Navigation dropdown menu */
+::backdrop {
+  background-color: blue !important;
+  font-weight: 500;
+
+}
+
+/* Navigation Menu */
+.container-fluid {
+  background-color: blue !important;
+  font-weight: 700 !important;
+  font-size: medium;
+}
+
+.facts {
+  background-image: url(images/happy.png);
+  size: 50px !important;
+}
