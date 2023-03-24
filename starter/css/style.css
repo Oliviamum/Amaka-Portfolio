@@ -60,7 +60,7 @@ p {
   font-style: normal;
   font-size-adjust: calc(15);
   color: #4c00ff !important;
-  background-image: url(images/Avatar.png);
+  background-image: url(/images/Avatar.png) !important;
   margin-top: 10px !important;
   margin-bottom: 20px !important;
   background: rgb(197, 212, 161) !important;
